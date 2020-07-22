@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm a software architect (specializing in front-end technologies, React, Webpack, NodeJS).
+Love to do magic by solving hard problems using elegant solutions.
+
+See my projects (which I'm very proud of):
+- https://maze4u.com - Create a maze for you!
+- https://devek.app - Developer Kit - Everything a developer needs in a single place (All client-side, no server)
+- [TinyTalk](https://play.google.com/store/apps/details?id=co.essh.tinytalk) - Android App - Teach your child to talk in any language.
+- [GamingCast](https://play.google.com/store/apps/details?id=co.essh.gamecast) - Android App - The first mobile gaming console using ChromeCast!
 <!--
 **elisherer/elisherer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
