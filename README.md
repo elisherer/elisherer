@@ -4,7 +4,7 @@ I'm a software architect (specializing in front-end technologies, React, Webpack
 Love to do magic by solving hard problems using elegant solutions.
 
 See my projects (which I'm very proud of):
-- https://maze4u.com - Create a maze for you!
+- https://kidev.io - Mazes, Puzzles and other fun activities for kids.
 - https://devek.app - Developer Kit - Everything a developer needs in a single place (All client-side, no server)
 - [TinyTalk](https://play.google.com/store/apps/details?id=co.essh.tinytalk) - Android App - Teach your child to talk in any language.
 - [GamingCast](https://play.google.com/store/apps/details?id=co.essh.gamecast) - Android App - The first mobile gaming console using ChromeCast!
